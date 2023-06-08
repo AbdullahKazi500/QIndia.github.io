@@ -1,5 +1,5 @@
 ---
-title: Welcome to Projectyl!
+title: Welcome to QIndia - Quantum Beginners Initiative!
 layout: splash
 permalink: /
 header:
@@ -15,7 +15,7 @@ tags:
     - housekeeping
 feature_row:
   - image_path: /assets/images/general/summer-internships.svg
-    title: "Summer internships in India"
+    title: "Blog and tutorial series focused on helping Quantum beginners find their footing."
     excerpt: "A comprehensive list of summer programs at IITs, IISERs and other institutes"
     url: /summer/
     btn_class: "btn--danger"
