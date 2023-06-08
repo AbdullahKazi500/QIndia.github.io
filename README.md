@@ -33,3 +33,26 @@ Physics education in undergraduate institutes is often inadequate in preparing s
 - [ ] Automate looking up webpages to see if new program announcements are available 
 - [ ] Expand the list of summer workshops and summer schools by incorporating the remaining items from the google sheet
 - [ ] Create separate post/page for international internships
+
+Blog and tutorial series focused on helping Quantum beginners find their footing. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content
+
+Contributing
+Contributions welcome!
+You can help this project by
+Reporting any errors you may find
+Helping create beginner-friendly content on Quantum Computing
+Resolving existing issues
+For detailed instructions, please refer the contribution guidelines
+
+Attribution
+Minimal Mistake Theme
+
+Content Author / Maintainer
+Abdullah Kazi
+
+Content Editor / Proof Reading / Technical Review
+Rajiv KrishnaKumar
+
+Author / Lead Developer / Maintainer
+Abdullah Kazi 
+
