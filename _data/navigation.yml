@@ -1,13 +1,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Updates"
+  - title: "Blogs"
     url: /notifs/
-  - title: "Internships"
+  - title: "Exercises"
     url: /summer/
-  - title: "Summer Schools"
+  - title: "Tutorials"
     url: /schools/
-  - title: "Other Stuff"
+  - title: "Other stuff"
     url: /all/
 categories:
   - title: Quick links
