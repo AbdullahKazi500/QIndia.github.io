@@ -106,7 +106,7 @@ instagram:
 
 social:
   type                   : Organization
-  name                   : Projectyl
+  name                   : QIndia
   links: # An array of links to social media profiles
     - "https://twitter.com/Projectyl125295"
     - "https://www.facebook.com/projectyl.in"
