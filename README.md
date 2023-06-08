@@ -1,17 +1,18 @@
 
-# Website for Projectyl
+# Website for QIndia - Quantum Beginners Initiative
 
-<img align="left" src="assets/images/general/logo.png" width="90">
+![logo](https://github.com/AbdullahKazi500/QIndia.github.io/assets/75779966/79a45128-74b9-4d49-9206-cccb342e5bfb)
 
-This is the repository for the [Projectyl website](https://projectyl.github.io/). It uses the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme. Most of the heavy-lifting has already been done by the theme. Make sure to check out our [website](https://projectyl.github.io/) for more information. Feel free to reach out to us with questions or suggestions via [email](mailto:projectylindia@gmail.com) or [Facebook](https://www.facebook.com/projectyl.in).
 
-## What is Projectyl?
+This is the repository for the QIndia - Quantum Beginners Initiative. It uses the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme. .
 
-Physics education in undergraduate institutes is often inadequate in preparing students for research. Lack of exposure to actual methods and cutting-edge topics makes it harder for the students to jump into doctoral work. Summer projects, summer schools, workshops, and online courses bridge this gap to a great extent. [Projectyl](https://projectyl.github.io) is an endeavour that intends to make this process easier by providing exhaustive information regarding these avenues.
+## What is QIndia - Quantum Beginners Initiative ?
+
+Blog and tutorial series focused on helping Quantum beginners find their footing. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content
 
 ## What can you find here?
 
-- We will provide regular and up-to-date information regarding summer/winter projects and internships on physics and other related fields, at various institutes in India.
+- Blog and tutorial series focused on Quantum Computing .
 
 - We will provide resources that will guide interested students in applying for these programs. These include help in writing up statements of purpose, approaching professors and creating a curriculum vitae.
 
@@ -34,9 +35,9 @@ Physics education in undergraduate institutes is often inadequate in preparing s
 - [ ] Expand the list of summer workshops and summer schools by incorporating the remaining items from the google sheet
 - [ ] Create separate post/page for international internships
 
-Blog and tutorial series focused on helping Quantum beginners find their footing. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content
 
-Contributing
+
+## Contributing
 Contributions welcome!
 You can help this project by
 Reporting any errors you may find
@@ -44,15 +45,18 @@ Helping create beginner-friendly content on Quantum Computing
 Resolving existing issues
 For detailed instructions, please refer the contribution guidelines
 
-Attribution
-Minimal Mistake Theme
+## Attribution
+[Minimal Mistake Theme](https://github.com/mmistakes)
 
-Content Author / Maintainer
-Abdullah Kazi
+## Content Author / Maintainer
+[Abdullah Kazi](https://github.com/AbdullahKazi500)
 
-Content Editor / Proof Reading / Technical Review
-Rajiv KrishnaKumar
+## Content Editor / Proof Reading / Technical Review
+[Rajiv KrishnaKumar](https://github.com/rajkk1)
 
-Author / Lead Developer / Maintainer
-Abdullah Kazi 
+## Author / Lead Developer / Maintainer
+[Abdullah Kazi](https://github.com/AbdullahKazi500)
+
+## Website Template / Source Credits
+Projectyl
 
