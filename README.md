@@ -14,26 +14,20 @@ Blog and tutorial series focused on helping Quantum beginners find their footing
 
 - Blog and tutorial series focused on Quantum Computing .
 
-- We will provide resources that will guide interested students in applying for these programs. These include help in writing up statements of purpose, approaching professors and creating a curriculum vitae.
+- We will provide resources that will guide interested students in understanding Quantum computing from a beginners perspective 
 
-- We also intend, at some point, to create a database of scientists categorised into topics; students will be able to search through the topics in order to find research groups that match their interests.
+- We also intend, at some point, to create a challenge exercise for the readers to try hands on Exercises on Quantum algorithms 
+
+- A list of Open source Educational resources for the readers to learn from and get a good understanding of the subject 
 
 ## Todo
 
-- [ ] Create a post on SOP writing
-- [ ] Create a post on CV writing
-- [ ] Create a post on various sources of fellowship
-- [ ] Create a post that lays out the entire procedure of applying for internships, starting from the time-frames, various steps, the finer details and how to search for them
-- [ ] Make interview-type content where people that have participated in internships share their experience
-- [x] Create a post that lays out the ways in which high school students can get exposure to advanced  science and research
-- [ ] Create a curated database of scientists who are prepared to undertake project students
+- [ ] Create a curated database of Quantum Computing internhips in India
 - [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
 - [ ] Add ability to filter database according to institution
 - [x] Improve the appearance of tables in the database
-- [x] Automate the generation of pdf from internship lists
+- [x] Automate the generation of pdf from content lists
 - [ ] Automate looking up webpages to see if new program announcements are available 
-- [ ] Expand the list of summer workshops and summer schools by incorporating the remaining items from the google sheet
-- [ ] Create separate post/page for international internships
 
 
 
