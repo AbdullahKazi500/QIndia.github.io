@@ -58,7 +58,7 @@ For detailed instructions, please refer the contribution guidelines
 Kiran
 
 ## Coding exercises / Challenge Tutorials
-Akash Reddy,Abdullah Kazi 
+Akash Reddy,Abdullah Kazi , Kiran
 
 ## Website Template / Source Credits
 Projectyl
