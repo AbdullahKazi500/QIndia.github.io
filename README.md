@@ -43,13 +43,22 @@ For detailed instructions, please refer the contribution guidelines
 [Minimal Mistake Theme](https://github.com/mmistakes)
 
 ## Content Author / Maintainer
-[Abdullah Kazi](https://github.com/AbdullahKazi500)
+[Abdullah Kazi](https://github.com/AbdullahKazi500) ,Mansi Tarani
 
-## Content Editor / Proof Reading / Technical Review
+## Content Editor / Proof Reading / Technical Review / Advisor 
 [Rajiv KrishnaKumar](https://github.com/rajkk1)
 
 ## Author / Lead Developer / Maintainer
-[Abdullah Kazi](https://github.com/AbdullahKazi500)
+[Abdullah Kazi](https://github.com/AbdullahKazi500), Mansi Tarani
+
+## Graphics /Animation 
+[Abdullah Kazi](https://github.com/AbdullahKazi500) Kabir Patil , Muskan Kushwaha
+
+## Infographics/ Flowcharts 
+Kiran
+
+## Coding exercises / Challenge Tutorials
+Akash Reddy,Abdullah Kazi 
 
 ## Website Template / Source Credits
 Projectyl
