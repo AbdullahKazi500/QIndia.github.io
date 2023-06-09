@@ -43,13 +43,13 @@ For detailed instructions, please refer the contribution guidelines
 [Minimal Mistake Theme](https://github.com/mmistakes)
 
 ## Content Author / Maintainer
-[Abdullah Kazi](https://github.com/AbdullahKazi500) ,Mansi Tarani
+[Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories)
 
 ## Content Editor / Proof Reading / Technical Review / Advisor 
 [Rajiv KrishnaKumar](https://github.com/rajkk1)
 
 ## Author / Lead Developer / Maintainer
-[Abdullah Kazi](https://github.com/AbdullahKazi500), Mansi Tarani
+[Abdullah Kazi](https://github.com/AbdullahKazi500), [Mansi Tarani](https://github.com/MansiTarani?tab=repositories)
 
 ## Graphics /Animation 
 [Abdullah Kazi](https://github.com/AbdullahKazi500) Kabir Patil , Muskan Kushwaha
