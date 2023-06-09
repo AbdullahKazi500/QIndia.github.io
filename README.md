@@ -37,7 +37,7 @@ You can help this project by
 Reporting any errors you may find
 Helping create beginner-friendly content on Quantum Computing
 Resolving existing issues
-For detailed instructions, please refer the contribution guidelines
+For detailed instructions, please refer the [contribution](https://github.com/AbdullahKazi500/QIndia.github.io/blob/master/Contributing.md) guidelines
 
 ## Attribution
 [Minimal Mistake Theme](https://github.com/mmistakes)
