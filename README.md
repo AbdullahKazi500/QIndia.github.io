@@ -61,18 +61,18 @@ Kiran
 Akash Reddy,Abdullah Kazi , Kiran
 
 ## Quantum Beginners Intiative Team
-- [ ]Section 1&2:
-- [ ]Text Content/Theory – Abdullah, Mansi
-- [ ]Coding Tutorials with theory(Jupyter Notebooks) – Akash, Kiran
-- [ ]Flowcharts and Infographics – Kiran
-- [ ]Graphics and Images – Kabir, Muskan 
-- [ ]Videos – Abdullah, Muskan
-- [ ]Section 3:
-- [ ]Text Content/Theory – Akash, Kiran
-- [ ]Coding Tutorials(Jupyter Notebooks) – Akash, Kiran
-- [ ]Flowcharts and Infographics – Kiran
-- [ ]Graphics and Images – Kabir, Muskan
-- [ ]Videos – Abdullah, Muskan
+- [ ] Section 1&2:
+- [ ] Text Content/Theory – Abdullah, Mansi
+- [ ] Coding Tutorials with theory(Jupyter Notebooks) – Akash, Kiran
+- [ ] Flowcharts and Infographics – Kiran
+- [ ] Graphics and Images – Kabir, Muskan 
+- [ ] Videos – Abdullah, Muskan
+- [ ] Section 3:
+- [ ] Text Content/Theory – Akash, Kiran
+- [ ] Coding Tutorials(Jupyter Notebooks) – Akash, Kiran
+- [ ] Flowcharts and Infographics – Kiran
+- [ ] Graphics and Images – Kabir, Muskan
+- [ ] Videos – Abdullah, Muskan
 
 ## Website Template / Source Credits
 [Projectyl](https://github.com/Projectyl/projectyl.github.io)
