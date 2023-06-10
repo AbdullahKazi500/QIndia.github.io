@@ -95,20 +95,19 @@ analytics:
 
 # Social Sharing
 instagram:
-  username               : projectyl_india
+  username               : QIndia
 instagram:
-  username               : projectyl_india
+  username               : QIndia
 instagram:
-  username               : projectyl_india
+  username               : QIndia
 instagram:
-  username               : projectyl_india
+  username               : QIndia
 
 
 social:
   type                   : Organization
   name                   : QIndia
   links: # An array of links to social media profiles
-    - "https://twitter.com/Projectyl125295"
-    - "https://www.facebook.com/projectyl.in"
-    - "https://instagram.com/projectyl_india/"
-    - "https://www.linkedin.com/in/projectyl-india-52ab5a26a/"
+    - "https://twitter.com/QIndiaGroup"
+    - "https://www.linkedin.com/company/q1nd1a/"
+    -  "https://www.youtube.com/channel/UC_diDPY4HK1sZWbS7So6Ejg"
