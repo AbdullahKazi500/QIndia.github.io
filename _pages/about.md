@@ -1,29 +1,41 @@
 ---
 permalink: /about/
-title: "More about this website: What is Projectyl about?"
+title: "What is Quantum Beginners intiative about?"
 excerpt: Why did we feel the need to start this? What can you find on this website?
 toc: true
 tags:
-    - housekeeping
+    - Quantum Computing 
 header:
   overlay_image: /assets/images/general/blob-haikei.svg
   actions:
-    - label: "Internships"
+    - label: "Blogs"
       url: /summer/
-    - label: "Summer schools"
+    - label: "Tutorials"
       url: /schools/
-    - label: "Updates"
+    - label: "Exercises"
       url: /notifs/
 
 ---
 
-## What is Projectyl?
+## What is Quantum Beginners intiative ?
 
-Projectyl is a website that hosts information and notifications regarding **summer internships, workshops, summer schools**, and other similar activities in the world of physics in India. This information is provided with the goal of making this available to **pre-PhD students studying in colleges**, particularly those who will pursue doctoral studies. Our hope is that by making use of these avenues, students will obtain some **exposure to research**, and feel more confident in facing tougher challenges during their PhD.
+Quantum Beginners is an initiative part of QIndia. It consists of blog posts and tutorial series focused on helping Quantum beginners find their footing”. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content.
 
 ## Why did we start this?
 
-Physics education in undergraduate institutes is often **inadequate** in preparing students for research. This is mostly because, most often, students **aren't exposed to actual methods** and cutting-edge research topics, leaving them without any idea of what actual research is about. Summer projects, summer schools, workshops, and online courses can, we believe, **bridge this gap** to some extent, by providing hands-on experience to students, as well providing windows into highly specialised areas of research. This website intends to **make this process easier** by providing exhaustive information regarding these avenues.
+The Quantum Beginners Initiative was started to address the growing need for educational outreach in the field of quantum computing. Here are some reasons why such an initiative was launched:
+
+**Awareness and Education**: Quantum computing is an emerging field that holds great potential for advancements in various domains. However, it is a complex and abstract subject that can be challenging for beginners to grasp. The initiative aims to raise awareness about quantum computing and provide educational resources to make it more accessible to students, researchers, and enthusiasts.
+
+**Bridging the Knowledge Gap**: Quantum computing involves concepts from diverse fields, including physics, mathematics, computer science, and engineering. Many people are interested in learning about quantum computing but may lack the necessary background or resources to dive into the subject. The initiative bridges the knowledge gap by providing structured learning materials and resources specifically designed for beginners.
+
+**Fostering a Quantum Community**: Quantum computing is a collaborative field that thrives on knowledge sharing and community engagement. The initiative brings together individuals who are interested in quantum computing, creating a platform for them to connect, collaborate, and learn from each other. By fostering a community of beginners, the initiative encourages peer-to-peer support and knowledge exchange.
+
+**Future Workforce Development**: Quantum computing is expected to have a significant impact on various industries, including technology, finance, healthcare, and more. By providing educational outreach, the initiative aims to equip individuals with the foundational knowledge needed to pursue careers in quantum computing. This helps in building a skilled workforce capable of driving innovation and advancements in the field.
+
+**Inspiring Curiosity and Exploration**: Quantum computing is a fascinating and rapidly evolving field that sparks curiosity and excitement. The initiative aims to inspire individuals to explore the wonders of quantum computing, encouraging them to ask questions, experiment, and think creatively. By nurturing curiosity, the initiative lays the foundation for further learning and engagement in quantum computing.
+
+**Democratizing Access**: The initiative strives to make quantum computing accessible to a wider audience, regardless of their background or geographic location. Through online resources, tutorials, and workshops, it aims to break down barriers to entry and empower individuals to embark on their quantum computing journey..
 
 ## What can you find here?
 
