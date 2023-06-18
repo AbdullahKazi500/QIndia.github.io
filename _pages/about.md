@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "What is Quantum Beginners intiative about?"
+title: "What is Quantum Beginners intiative about?" Work in Progress 
 excerpt: Why did we feel the need to start this? What can you find on this website?
 toc: true
 tags:
