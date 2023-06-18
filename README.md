@@ -21,7 +21,7 @@ Blog and tutorial series focused on helping Quantum beginners find their footing
 - A list of Open source Educational resources for the readers to learn from and get a good understanding of the subject 
 
 ## Todo
-
+- [ ] Adding a Work in Progress Banner header on top of the website 
 - [ ] Create a curated database of Quantum Computing internhips in India
 - [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
 - [ ] Add ability to filter database according to institution
