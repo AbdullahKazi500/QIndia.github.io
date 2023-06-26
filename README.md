@@ -47,7 +47,7 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 
 
 ## Content Author (Algorithms)/ Maintainer
-Akash Reddy , Kiran Kaur 
+[Akash Reddy](https://github.com/Akash6300) , [Kiran Kaur](https://github.com/KyranKaur) 
 
 ## Content Editor / Proof Reading / Technical Review / Advisor 
 [Rajiv KrishnaKumar](https://github.com/rajkk1)
@@ -59,10 +59,10 @@ Akash Reddy , Kiran Kaur
 [Abdullah Kazi](https://github.com/AbdullahKazi500) , Muskan Kushwaha
 
 ## Infographics/ Flowcharts 
-Kiran
+[Kiran Kaur](https://github.com/KyranKaur)
 
 ## Coding exercises / Challenge Tutorials
-Akash Reddy,Abdullah Kazi , Kiran
+[Akash Reddy](https://github.com/Akash6300),Abdullah Kazi , [Kiran Kaur](https://github.com/KyranKaur)
 
 ## Quantum Beginners Intiative Team
 - [ ] Section 1&2:
