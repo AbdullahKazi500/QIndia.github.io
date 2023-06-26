@@ -42,8 +42,12 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 ## Attribution
 [Minimal Mistake Theme](https://github.com/mmistakes)
 
-## Content Author / Maintainer
-[Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories)
+## Content Author (Theory) / Maintainer
+[Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories), Nasir
+
+
+## Content Author (Algorithms)/ Maintainer
+Akash Reddy , Kiran Kaur 
 
 ## Content Editor / Proof Reading / Technical Review / Advisor 
 [Rajiv KrishnaKumar](https://github.com/rajkk1)
@@ -52,7 +56,7 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 [Abdullah Kazi](https://github.com/AbdullahKazi500), [Mansi Tarani](https://github.com/MansiTarani?tab=repositories)
 
 ## Graphics /Animation 
-[Abdullah Kazi](https://github.com/AbdullahKazi500) Kabir Patil , Muskan Kushwaha
+[Abdullah Kazi](https://github.com/AbdullahKazi500) , Muskan Kushwaha
 
 ## Infographics/ Flowcharts 
 Kiran
